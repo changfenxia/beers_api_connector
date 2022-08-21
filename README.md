@@ -1,4 +1,4 @@
-#beers API connector
+# beers API connector
 
 Данный коннектор позволяет получать данные о сортах пива с https://random-data-api.com и складывать их в БД PostgreSQL.
 
